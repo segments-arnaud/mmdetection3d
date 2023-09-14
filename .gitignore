@@ -112,6 +112,7 @@ venv.bak/
 # data/*
 # !data/nuscenes/*
 *.tgz
+.DS_Store
 
 # custom
 *.pkl
