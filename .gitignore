@@ -111,6 +111,7 @@ venv.bak/
 # include nuscenes
 # data/*
 # !data/nuscenes/*
+*.tgz
 
 # custom
 *.pkl
