@@ -115,7 +115,7 @@ venv.bak/
 .DS_Store
 
 # custom
-*.pkl
+# *.pkl
 *.pkl.json
 *.log.json
 work_dirs/
