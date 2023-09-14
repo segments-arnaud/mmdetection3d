@@ -106,9 +106,11 @@ venv.bak/
 .mypy_cache/
 
 # cython generated cpp
-data
 .vscode
 .idea
+# include nuscenes
+# data/*
+# !data/nuscenes/*
 
 # custom
 *.pkl
